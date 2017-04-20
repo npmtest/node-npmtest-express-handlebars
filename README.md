@@ -1,4 +1,7 @@
-# test coverage for  [express-handlebars (v3.0.0)](https://github.com/ericf/express-handlebars)  [![npm package](https://img.shields.io/npm/v/npmtest-express-handlebars.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-handlebars) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-handlebars.svg)](https://travis-ci.org/npmtest/node-npmtest-express-handlebars)
+# npmtest-express-handlebars
+
+#### basic test coverage for  [express-handlebars (v3.0.0)](https://github.com/ericf/express-handlebars)  [![npm package](https://img.shields.io/npm/v/npmtest-express-handlebars.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-handlebars) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-handlebars.svg)](https://travis-ci.org/npmtest/node-npmtest-express-handlebars)
+
 #### A Handlebars view engine for Express which doesn't suck.
 
 [![NPM](https://nodei.co/npm/express-handlebars.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-handlebars)
